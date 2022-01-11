@@ -59,7 +59,7 @@ jobs:
         body: |
           - Version: ${{ env.resource_version }}
           - resource-pack-sha1=${{ env.resource_sha }}
-          - resource-pack=https\://github.com/TheWebbe/Swagcraft-Test-Resources/releases/download/master/SwagTest-Resources.zip
+          - resource-pack=https\://github.com/TheWebbe/Swagcraft-Test-Resources/releases/download/latest/SwagTest-Resources.zip
         draft: false
         prerelease: false
     
