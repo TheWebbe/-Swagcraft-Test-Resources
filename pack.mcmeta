@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 8,
-    "description": "Pre-zipped Model Engine Resource Pack"
+    "description": [{"text": "Swag Resources", "color":"aqua"},{"text":"\n(SwagCraft)", "color":"gold"}]
   }
 }
